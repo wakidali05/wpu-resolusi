@@ -1,0 +1,8 @@
+RENCANA wpu skill
+
+- Javascript
+  * es6
+  *framework js
+- Php
+- Phyton
+- Matlab

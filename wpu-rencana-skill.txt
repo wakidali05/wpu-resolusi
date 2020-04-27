@@ -5,6 +5,9 @@ RENCANA wpu skill
   *framework js
    ^angular
    ^react
+   ^vue
+- Php
+  *laravel
 - my sql
 - Phyton
  *Django

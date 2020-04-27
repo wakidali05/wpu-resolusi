@@ -4,6 +4,7 @@ RENCANA wpu skill
   * es6
   *framework js
    ^vue
+   ^react
 - Php
   *laravel
 - my sql

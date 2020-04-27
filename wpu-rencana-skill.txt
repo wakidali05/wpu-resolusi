@@ -4,5 +4,6 @@ RENCANA wpu skill
   * es6
   *framework js
 - Php
+- my sql
 - Phyton
 - Matlab
